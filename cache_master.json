@@ -1,0 +1,9 @@
+{
+  "fingerprint": "bed0d5449ae720fe89bb8bdd168ad4aab18e28fe392d582ee70ed02e02845e79",
+  "source_pdf": "UMNwriteup.pdf",
+  "embedding_model": "models/embedding-001",
+  "chunk_config": {
+    "size": 1000,
+    "overlap": 300
+  }
+}

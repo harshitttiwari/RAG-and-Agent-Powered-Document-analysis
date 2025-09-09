@@ -1,0 +1,10 @@
+langchain
+google-generativeai
+langchain-google-genai
+chromadb
+pypdf
+tiktoken
+unstructured
+duckduckgo-search
+PyMuPDF
+serpapi
